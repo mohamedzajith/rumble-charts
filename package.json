@@ -72,7 +72,7 @@
     "jest": "^22.0.0",
     "jest-cli": "^21.2.1",
     "raf": "^3.4.0",
-    "react": "0.14.x || >=15.0.0 || 16.0.x",
+    "react": "16.6.3",
     "react-dom": "0.14.x || >=15.0.0 || 16.0.x",
     "react-styleguidist": "^6.0.31",
     "react-test-renderer": "^16.0.0"
