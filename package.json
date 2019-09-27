@@ -75,7 +75,7 @@
     "react": "16.10.0",
     "react-dom": "16.10.0",
     "react-styleguidist": "^6.0.31",
-    "react-test-renderer": "^16.0.0"
+    "react-test-renderer": "^16.10.0"
   },
   "peerDependencies": {
     "react": "0.14.x || >=15.0.0 || 16.0.x",
